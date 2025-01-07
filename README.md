@@ -1,4 +1,4 @@
-# YOLOv11 Training and Video Analysis Framework
+# train-yolov11-custom-dataset
 
 This repository provides a comprehensive framework for object detection using YOLOv11, featuring scripts for model training and video analysis.
 
